@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         //这个需要实现什么功能
+        //IOC   MVC    
     }
 }
